@@ -1,0 +1,26 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Simple tools to setup and interact with a Quorum Blockchain network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueJayADAL/Blockchain.git"
+  },
+  "author": "Christoph Schartner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueJayADAL/Blockchain/issues"
+  },
+  "homepage": "https://github.com/BlueJayADAL/Blockchain#readme",
+  "dependencies": {
+    "web3": "^1.2.4",
+    "bignumber.js": "^9.0.0",
+    "keythereum": "^1.0.4",
+    "ora": "^4.0.3",
+    "prompts": "^2.3.0"
+  }
+}
